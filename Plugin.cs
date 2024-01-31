@@ -48,10 +48,6 @@ namespace LCRevolverMod
         {
             log.LogMessage("Scene Loaded " + scene.name + " with " + mode + " mode.");
             log.LogMessage(scene.name);
-            if (scene.name == "SampleSceneRelay")
-            {
-
-            }
         }
     }
 } 
