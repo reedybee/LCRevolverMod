@@ -1,4 +1,4 @@
-# LCRevolverMod
+# Lethal Company Revolver Mod
 
 Welcome to the Lethal Company Revolver Mod!
 
